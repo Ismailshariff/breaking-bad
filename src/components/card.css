@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.card{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.p1{
+    font-size: 1.2rem;
+    color:black;
+}
+.p2{
+    font-size: 14px;
+    color: blue;
+}
+.p3{
+    font-size: 17px;
+    color: rgb(248, 69, 69);
+}
